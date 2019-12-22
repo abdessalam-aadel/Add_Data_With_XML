@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+<Personne>
+  <Homme>
+    <Name>Youssef</Name>
+    <Prenom />
+    <age>12</age>
+    <chambre>N° 1</chambre>
+  </Homme>
+  <Homme>
+    <Name>Abdessalam</Name>
+    <Prenom>Kilya</Prenom>
+    <age>24</age>
+    <chambre>N° 2</chambre>
+  </Homme>
+  <Homme>
+    <Name>Karim</Name>
+    <Prenom>nawi</Prenom>
+    <age>23</age>
+    <chambre>N° 3</chambre>
+  </Homme>
+  <Homme>
+    <Name>Fayssal</Name>
+    <Prenom>jabori</Prenom>
+    <age>21</age>
+    <chambre>N° 4</chambre>
+  </Homme>
+  <Homme>
+    <Name>Samir</Name>
+    <Prenom>kharbouch</Prenom>
+    <age>19</age>
+    <chambre>N° 5</chambre>
+  </Homme>
+</Personne>
